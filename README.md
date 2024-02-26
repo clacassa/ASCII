@@ -1,1 +1,1 @@
-![ASCII output](images/output.png)
+![ASCII output](images/ascii_table.png)

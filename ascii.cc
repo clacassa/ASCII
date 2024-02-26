@@ -7,7 +7,7 @@
 
 int main() {
     
-    std::string accent_line("\x1b[48;5;240m");
+    std::string accent_line("\x1b[48;5;237m");
     std::string space("      ");
     std::string space2("     ");
     for (int columns(0); columns < 3; ++columns) {
